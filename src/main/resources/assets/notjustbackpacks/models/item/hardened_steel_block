@@ -1,0 +1,7 @@
+{
+  "parent": "block/generated",
+  "textures":
+  {
+    "layer0": "notjustbackpacks:block/hardened_steel_block"
+  }
+}
